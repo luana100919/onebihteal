@@ -5,6 +5,7 @@ import ResultImc from "./ResultImc"
 export default function ResultImc(props){
     return(
         <view>
+            <Text>esse e um teste</Text>
             <Text>(props.ResultImc)</Text>
             <Text>(props.messageResultImc)</Text>
         </view>
